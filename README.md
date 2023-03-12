@@ -1,7 +1,7 @@
 # catcam
 Můj vlastní kód animované kamery v pythonu pro streamování.
 
-Toto je 3. verze tohoto programu.
+Toto je 3. verze tohoto programu. \n
 Výsledek bude vypadat nějak takto: https://www.youtube.com/watch?v=G4uGDlNw4Fg 
 
 Proč dělám vlastní kód?
