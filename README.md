@@ -10,7 +10,8 @@ Můj vlastní kód animované kamery v pythonu pro streamování.
 Videoukázka: https://youtu.be/M7aGMna_jBM
 
 
-![CamCat v0 3 1 2 10_03_2023 16_14_20](https://user-images.githubusercontent.com/127532284/228022139-74a24638-1485-4488-8f0f-35795301b598.png)
+![catcam-prtscn](https://github.com/user-attachments/assets/f5786f95-7cec-414b-81b2-46a2ff574205)
+
 
 * Proč dělám vlastní kód? <br />
 Chci si ji vytvořit sám a následně si ji upravovat. A při tom se ještě něco naučit.
