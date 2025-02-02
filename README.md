@@ -7,7 +7,7 @@ Můj vlastní kód animované kamery v pythonu pro streamování.
 - Vytvořena z důvodu, že si nepamatuji, kde a kdy jsem skončil dříve
 - Jedná se o nezávislé pokračování
 <br />
-Videoukázka: https://www.youtube.com/watch?v=rLLGrqbJV64
+Videoukázka: https://youtu.be/M7aGMna_jBM
 
 
 ![CamCat v0 3 1 2 10_03_2023 16_14_20](https://user-images.githubusercontent.com/127532284/228022139-74a24638-1485-4488-8f0f-35795301b598.png)
